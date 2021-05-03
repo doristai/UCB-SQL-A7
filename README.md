@@ -18,7 +18,7 @@ The goal of the project is to identify the number of retiring employees by title
 
     3. ```retiring_titles``` table : Count the total number of employees for each title.
 
-    4. ```mentorship_eligibility`` table : Use information from Employees, Department Employees and Titles table to determine which employee is elgible for the mentorship programmes. 
+    4. ```mentorship_eligibility``` table : Use information from Employees, Department Employees and Titles table to determine which employee is elgible for the mentorship programmes. 
 
 ## Results 
 
