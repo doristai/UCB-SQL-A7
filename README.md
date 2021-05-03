@@ -24,15 +24,27 @@ The goal of the project is to identify the number of retiring employees by title
 
 - ```retirement_titles```
 
+Retired Employees with Titles ![image](https://user-images.githubusercontent.com/70616488/116862653-f30dcf00-abb9-11eb-96f9-98c7fe2b98c0.png)
+
+
 - ```unique_titles```
+
+Remove Duplicates![image](https://user-images.githubusercontent.com/70616488/116862970-6c0d2680-abba-11eb-8027-1109bafbc094.png)
+
+
 
 - ```retiring_titles``` 
 
     - Majority of the retired employees were in senior-level (64%)
 
-- ```mentorship_eligibility``
+Counts of Retired Employees for each Title![image](https://user-images.githubusercontent.com/70616488/116862750-133d8e00-abba-11eb-8144-cc50889fc97b.png)
+
+
+- ```mentorship_eligibility```
 
     - Most of the employees who are eligible for mentorship programme have a senior title. 
+
+Employees who are elgibile for montorship programme![image](https://user-images.githubusercontent.com/70616488/116863028-85ae6e00-abba-11eb-9134-a7ff978d9cf6.png)
 
 
 ## Summary
